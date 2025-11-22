@@ -1,4 +1,4 @@
 # Learning about Version Control
-Author : Raghav Gupta
+Author : Raghav Gupta  
 Solving merge conflicts is easy!
 
